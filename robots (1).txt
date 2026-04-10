@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matheuspfinamor-arch.github.io/findez-agencia/sitemap.xml
